@@ -5,5 +5,6 @@ This is an experemental project. It aims at brining modern web-design to Crunchy
 
 This project is for educational purposes. This project will not allow you to view paid content at all.
 
-# Images
+# Images (WIP)
+### Reader View
 ![Reader](https://raw.githubusercontent.com/edward-vo/MangaRoll/main/imgs/Reader.png)
